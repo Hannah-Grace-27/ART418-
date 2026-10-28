@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" fill="none">
+  <!-- Brand Icon Badge -->
+  <g transform="translate(10, 10) scale(0.46)">
+    <circle cx="150" cy="150" r="140" fill="#EBC25B" stroke="#000000" stroke-width="8" />
+    <g transform="translate(50, 40)" fill="none" stroke="#000000" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 140 64 C 140 32, 115 14, 85 14 C 52 14, 32 38, 32 70 C 32 104, 62 120, 100 130" />
+      <path d="M 100 90 C 138 100, 168 116, 168 150 C 168 182, 148 206, 115 206 C 85 206, 60 188, 60 156" />
+    </g>
+  </g>
+
+  <!-- Super Stager Wordmark -->
+  <text x="170" y="82" font-family="'BC Alphapipe', 'Fredoka', 'Outfit', sans-serif" font-weight="900" font-size="54" fill="#000000" letter-spacing="-1">Super Stager</text>
+  
+  <!-- Tagline -->
+  <text x="174" y="118" font-family="'Lato', -apple-system, sans-serif" font-weight="400" font-size="18" fill="#595959" letter-spacing="0.5">A House Stager's Dream</text>
+</svg>

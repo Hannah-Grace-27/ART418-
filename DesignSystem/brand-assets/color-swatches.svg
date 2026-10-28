@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" fill="none">
+  <!-- Artboard Background -->
+  <rect width="900" height="480" rx="20" fill="#FCF7F0" />
+  
+  <!-- Title & Header -->
+  <text x="40" y="55" font-family="'BC Alphapipe', 'Fredoka', 'Outfit', sans-serif" font-weight="800" font-size="28" fill="#000000">Super Stager • Brand Color Palette</text>
+  <text x="40" y="85" font-family="'Lato', sans-serif" font-size="15" fill="#595959">Retro Comeback • Foundations for Figma Variables &amp; Styles</text>
+
+  <!-- Swatch 1: Mint Green -->
+  <g transform="translate(40, 115)">
+    <rect width="150" height="150" rx="16" fill="#6FC774" stroke="#000000" stroke-width="2" />
+    <text x="0" y="180" font-family="'Lato', sans-serif" font-weight="700" font-size="16" fill="#000000">Mint Green</text>
+    <text x="0" y="202" font-family="'Lato', sans-serif" font-size="13" fill="#595959">#6FC774</text>
+    <text x="0" y="220" font-family="'Lato', sans-serif" font-size="12" fill="#888888">rgb(111, 199, 116)</text>
+    <text x="0" y="240" font-family="'Lato', sans-serif" font-weight="600" font-size="11" fill="#057FA8">WAREHOUSE / FRESH</text>
+  </g>
+
+  <!-- Swatch 2: Deep Pool -->
+  <g transform="translate(210, 115)">
+    <rect width="150" height="150" rx="16" fill="#057FA8" stroke="#000000" stroke-width="2" />
+    <text x="0" y="180" font-family="'Lato', sans-serif" font-weight="700" font-size="16" fill="#000000">Deep Pool</text>
+    <text x="0" y="202" font-family="'Lato', sans-serif" font-size="13" fill="#595959">#057FA8</text>
+    <text x="0" y="220" font-family="'Lato', sans-serif" font-size="12" fill="#888888">rgb(5, 127, 168)</text>
+    <text x="0" y="240" font-family="'Lato', sans-serif" font-weight="600" font-size="11" fill="#057FA8">STAGED / STRUCTURE</text>
+  </g>
+
+  <!-- Swatch 3: Red Plum -->
+  <g transform="translate(380, 115)">
+    <rect width="150" height="150" rx="16" fill="#A80550" stroke="#000000" stroke-width="2" />
+    <text x="0" y="180" font-family="'Lato', sans-serif" font-weight="700" font-size="16" fill="#000000">Red Plum</text>
+    <text x="0" y="202" font-family="'Lato', sans-serif" font-size="13" fill="#595959">#A80550</text>
+    <text x="0" y="220" font-family="'Lato', sans-serif" font-size="12" fill="#888888">rgb(168, 5, 80)</text>
+    <text x="0" y="240" font-family="'Lato', sans-serif" font-weight="600" font-size="11" fill="#A80550">ACCENT / ATTENTION</text>
+  </g>
+
+  <!-- Swatch 4: Sunny -->
+  <g transform="translate(550, 115)">
+    <rect width="150" height="150" rx="16" fill="#EBC25B" stroke="#000000" stroke-width="2" />
+    <text x="0" y="180" font-family="'Lato', sans-serif" font-weight="700" font-size="16" fill="#000000">Sunny</text>
+    <text x="0" y="202" font-family="'Lato', sans-serif" font-size="13" fill="#595959">#EBC25B</text>
+    <text x="0" y="220" font-family="'Lato', sans-serif" font-size="12" fill="#888888">rgb(235, 194, 91)</text>
+    <text x="0" y="240" font-family="'Lato', sans-serif" font-weight="600" font-size="11" fill="#8A6A00">HERO / IN-TRANSIT</text>
+  </g>
+
+  <!-- Swatch 5: White & Canvas -->
+  <g transform="translate(720, 115)">
+    <rect width="140" height="70" rx="12" fill="#FFFFFF" stroke="#EDE9DF" stroke-width="2" />
+    <text x="10" y="42" font-family="'Lato', sans-serif" font-size="13" font-weight="700" fill="#000000">#FFFFFF Surface</text>
+
+    <rect y="80" width="140" height="70" rx="12" fill="#FCF7F0" stroke="#EDE9DF" stroke-width="2" />
+    <text x="10" y="122" font-family="'Lato', sans-serif" font-size="13" font-weight="700" fill="#000000">#FCF7F0 Canvas</text>
+    
+    <text x="0" y="180" font-family="'Lato', sans-serif" font-weight="700" font-size="16" fill="#000000">Neutrals</text>
+    <text x="0" y="202" font-family="'Lato', sans-serif" font-size="13" fill="#595959">Ink: #000000</text>
+    <text x="0" y="220" font-family="'Lato', sans-serif" font-size="12" fill="#888888">Border: #EDE9DF</text>
+  </g>
+
+  <!-- Footer Banner -->
+  <rect x="40" y="390" width="820" height="55" rx="12" fill="#EDE9DF" />
+  <text x="60" y="424" font-family="'Lato', sans-serif" font-weight="600" font-size="14" fill="#333333">Ready for Figma • Tokens Studio JSON • Figma Variables • 8pt Spacing Grid</text>
+</svg>

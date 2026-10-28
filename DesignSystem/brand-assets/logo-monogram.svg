@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" fill="none">
+  <!-- Super Stager Interlocking Double-Loop S Monogram -->
+  <g fill="none" stroke="#000000" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top Loop Hook -->
+    <path d="M 145 68 C 145 36, 118 16, 85 16 C 50 16, 32 40, 32 72 C 32 108, 65 125, 105 136" />
+    <!-- Bottom Loop Hook -->
+    <path d="M 95 104 C 135 115, 168 132, 168 168 C 168 200, 150 224, 115 224 C 82 224, 55 204, 55 172" />
+    <!-- Inner interlaced loop accent -->
+    <path d="M 72 70 C 72 55, 84 42, 99 42 C 114 42, 122 54, 122 68 C 122 84, 106 96, 92 104" stroke-width="14" stroke="#057FA8" />
+    <path d="M 128 170 C 128 185, 116 198, 101 198 C 86 198, 78 186, 78 172 C 78 156, 94 144, 108 136" stroke-width="14" stroke="#6FC774" />
+  </g>
+</svg>
